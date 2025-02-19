@@ -1,0 +1,18 @@
+C:\Users\Leodd\EDD SEM10\bin\Debug\net9.0\EDD SEM10.exe
+C:\Users\Leodd\EDD SEM10\bin\Debug\net9.0\EDD SEM10.deps.json
+C:\Users\Leodd\EDD SEM10\bin\Debug\net9.0\EDD SEM10.runtimeconfig.json
+C:\Users\Leodd\EDD SEM10\bin\Debug\net9.0\EDD SEM10.dll
+C:\Users\Leodd\EDD SEM10\bin\Debug\net9.0\EDD SEM10.pdb
+C:\Users\Leodd\EDD SEM10\obj\Debug\net9.0\EDD SEM10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leodd\EDD SEM10\obj\Debug\net9.0\EDD SEM10.AssemblyInfoInputs.cache
+C:\Users\Leodd\EDD SEM10\obj\Debug\net9.0\EDD SEM10.AssemblyInfo.cs
+C:\Users\Leodd\EDD SEM10\obj\Debug\net9.0\EDD SEM10.csproj.CoreCompileInputs.cache
+C:\Users\Leodd\EDD SEM10\obj\Debug\net9.0\EDD SEM10.dll
+C:\Users\Leodd\EDD SEM10\obj\Debug\net9.0\refint\EDD SEM10.dll
+C:\Users\Leodd\EDD SEM10\obj\Debug\net9.0\EDD SEM10.pdb
+C:\Users\Leodd\EDD SEM10\obj\Debug\net9.0\EDD SEM10.genruntimeconfig.cache
+C:\Users\Leodd\EDD SEM10\obj\Debug\net9.0\ref\EDD SEM10.dll
+C:\Users\Leodd\EDD SEM10\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\Leodd\EDD SEM10\bin\Debug\net9.0\itextsharp.dll
+C:\Users\Leodd\EDD SEM10\obj\Debug\net9.0\EDD SEM10.csproj.AssemblyReference.cache
+C:\Users\Leodd\EDD SEM10\obj\Debug\net9.0\EDD SEM10.csproj.Up2Date
